@@ -1,4 +1,4 @@
-# Unity_Reverse_Engineering
+# Unity-Reversing 
 This repo will contain research I have done utilizing IDA pro & other tools utilized for Reverse engineering. The primary purpose is to provide insight onto games built on the engine Unity.
 
 This is for educational purposes and also for the use of anyone who finds the information helpful
