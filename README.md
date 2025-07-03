@@ -1,7 +1,5 @@
 # Unity-Reversing 
-This repo will contain research I have done utilizing IDA pro & other tools utilized for Reverse engineering. The primary purpose is to provide insight onto games built on the engine Unity.
-
-This is for educational purposes and also for the use of anyone who finds the information helpful
+Unity reversing contains a whole of interesting elements I have found when reverse engineering specific games I have enjoyed that are built on the game engine Unity. This information can be used by whomever and it may or may not be helpful.
 
 ![unity-logo-1230x690-1494479165](https://github.com/user-attachments/assets/c6108f4f-5105-4349-8a9e-a522e08d39f7)
 
